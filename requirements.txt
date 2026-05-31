@@ -7,9 +7,9 @@ langchain-groq==0.1.9
 faiss-cpu==1.13.0
 
 sentence-transformers
+torch
+transformers
+
 PyPDF2
 python-dotenv
 tiktoken
-
-torch
-transformers
